@@ -2,7 +2,7 @@
 
 Ejercicio 1 - Dependencias
 
-Módulos que quedan instalados al instalar solo Facturación
+- Módulos que quedan instalados al instalar solo Facturación
 
 <img width="1920" height="985" alt="imagen" src="https://github.com/user-attachments/assets/d9349bf1-686a-44eb-a29d-bed177c44960" />
 <img width="1920" height="1000" alt="imagen" src="https://github.com/user-attachments/assets/bb68dd73-6418-450a-a621-7fe7e0cb5e8c" />
@@ -10,6 +10,7 @@ Módulos que quedan instalados al instalar solo Facturación
 
 ```
 Nombre de módulo	                                               Nombre técnico
+
 Facturación	                                                       account
 Conversaciones      	                                             mail
 Agregar GLN del contacto	                                         account_add_gln
@@ -68,3 +69,25 @@ Caja de herramientas para capacitación	                           onboarding
 Enrutamiento web	                                                 http_routing
 Validación de números de teléfono                                	 phone_validation
 ```
+
+
+Ejercicio 2 - Configuracion de la empresa
+
+- Datos de la compañia
+<img width="1223" height="830" alt="imagen" src="https://github.com/user-attachments/assets/e54849ce-9554-4cca-8171-6a5eea22a8e2" />
+
+- Ajustes de Facturacion
+<img width="976" height="738" alt="imagen" src="https://github.com/user-attachments/assets/8ba3c932-d10a-4899-8b6a-9985363bd574" />
+
+- Configuracion Banco
+<img width="1257" height="502" alt="imagen" src="https://github.com/user-attachments/assets/f85a1b2b-463f-4b56-b47e-a15ae99e9331" />
+
+- Marcar casilla
+<img width="352" height="56" alt="imagen" src="https://github.com/user-attachments/assets/f6237410-0bc9-4fe8-859b-858bc2b414cc" />
+
+
+Ejercicio 3
+
+<img width="1917" height="999" alt="imagen" src="https://github.com/user-attachments/assets/f450c801-8665-41f0-966f-9d8e05524c33" />
+<img width="1917" height="999" alt="imagen" src="https://github.com/user-attachments/assets/cd66e3a0-5f07-43ba-b500-de939dc68781" />
+
